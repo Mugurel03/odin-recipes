@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+}
+
+#text-header {
+    font-size: 28px;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 240px;
+    border-style: groove;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+#home-link {
+    text-decoration: none;
+}
+
+#text-header {
+    text-decoration: none;
+}
+
+
+
